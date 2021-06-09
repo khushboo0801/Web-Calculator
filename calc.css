@@ -1,0 +1,27 @@
+body{
+	background: #F38144 !important;
+}
+textarea{
+	color: white;
+	background-color: black;
+	margin-right: 0;
+	position: absolute;
+	height: 10rem;
+	width: 24.8rem;
+	border-right: 2px solid pink;
+	outline: none;
+}
+.row{
+	--bs-gutter-x: 0;
+	height: 5rem;
+	padding: 0 0;
+}
+.card-body{
+	height: 25rem;
+	padding-right: 0;
+}
+.btn-group .btn{
+	border-radius: 5rem;
+	font-weight: 3rem;
+	font-size: 1.5rem;
+}
